@@ -6,6 +6,7 @@
 		{ "id": "heroicons", "prefix": "heroicons", "name": "Heroicons" },
 		{ "id": "phosphor", "prefix": "ph", "name": "Phosphor" },
 		{ "id": "fluent", "prefix": "fluent", "name": "Fluent UI" },
-		{ "id": "solar", "prefix": "solar", "name": "Solar" }
+		{ "id": "solar", "prefix": "solar", "name": "Solar" },
+		{ "id": "material", "prefix": "material-symbols", "name": "Material Symbols" }
 	]
 }
