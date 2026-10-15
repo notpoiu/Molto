@@ -64,6 +64,35 @@
     "Sheets": 2,
     "SourceHash": "423a40bf7c8261df0f4488795f29363459e0d983f7a472a56361a0ca732cb06b"
   },
+  "material": {
+    "Count": 16442,
+    "Font": true,
+    "FontParts": 17,
+    "FontSources": [
+      "a6c3b947bc82401b8fb6c7fb8b37cae4efbdbaa7e3b0ea5ee2654ae9f318e3e4",
+      "7a7ca51f6604403d8a6f7e20d2625b80aeb9ffecb398775762a24e22c0f470b0",
+      "a1ef7a9bf6412ef4532c9eb14284b3046051fcb1b6a65015f1a61d6b692c0f53",
+      "e8d6e6babc6a12e7a0d703e5df813b1f3a965359af60e3a8b3673b3289b08f77",
+      "acb95b43b3d2b2a0276449de286742820855cacd790c55d81f878e961e35ec81",
+      "cfc9890dcf418bcbdcdb7ee3ffc194d21f8a82a648bbec0e19bbffde1740e075",
+      "8678c8a58f00204f31e5b39aada3a5bc3aa7c70680c2752c7b328fac72e28d56",
+      "dcddc643c20abafef86ff881df4431426570bec2b4d1ec07e9e6df482651104a",
+      "29ee2e12f047d3241c81cbf805678ef3e81ab0da562ea43a8d9c57ed9488375b",
+      "34c129915b924951d6a63961ee2a0a4df1fa4973b8dbb0f1b514b29db19b8410",
+      "736463c4cb2de1dfdb87191833fc9b0bb607c3afcfa8183e886d44a3bf91e445",
+      "00d98ed7e153a244c0099221af02796c48ecef42daaa02e5fc602ee1ab439826",
+      "74a8f8daf6a161836d72107ee02e942474817440794f3187832dd1450a006862",
+      "91d06a7f5b083e2fa865bff7c4742ba1f6f27c415a3462482b783916e0ab911a",
+      "4e942f188ad52e90818fc3bf37a28ef188621f546d975d1e537207326a9f7a3b",
+      "198f0878e3a7d4a0f6e16c1a754a6db440aeb6d3302d8a6131d5ca80cc81e2a8",
+      "2b8e4080a3cff6c658c825c0f283bca3ae51192f6370381ccee8d0c33ece58e3"
+    ],
+    "Hash": "28d0dc56de33b9fcb95f90caca7798c3282cb0a26074e15753ff60adb8a4e53b",
+    "License": "Apache 2.0",
+    "Name": "Material Symbols",
+    "Sheets": 11,
+    "SourceHash": "b0be36aa94c3b3b003880f44da8c52204ab8ffe893ed722a609c151ebf32f3f8"
+  },
   "phosphor": {
     "Count": 9161,
     "Font": true,
