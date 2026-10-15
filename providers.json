@@ -7,6 +7,8 @@
 		{ "id": "phosphor", "prefix": "ph", "name": "Phosphor", "revision": 2 },
 		{ "id": "fluent", "prefix": "fluent", "name": "Fluent UI" },
 		{ "id": "solar", "prefix": "solar", "name": "Solar", "revision": 4 },
-		{ "id": "material", "prefix": "material-symbols", "name": "Material Symbols", "revision": 2 }
+		{ "id": "material", "prefix": "material-symbols", "name": "Material Symbols", "revision": 2 },
+		{ "id": "feather", "prefix": "feather", "name": "Feather" },
+		{ "id": "fontawesome", "prefix": "fa7-solid", "name": "Font Awesome Solid" }
 	]
 }
