@@ -1,6 +1,6 @@
 {
-  "version": "44258f2acf9e1bd02f3ee855af6192c5c8714128b40981d4c2ad1cd7ba560c09",
-  "nextCodepoint": 58129,
+  "version": "9adcfd1027ac2150ad2a5159ebe4514599aa7f583809a70b6e28405af2009106",
+  "nextCodepoint": 58131,
   "icons": {
     "access-time-20-filled": 57344,
     "accessibility-28-regular": 57345,
@@ -267,6 +267,7 @@
     "document-one-page-beaker-16-filled": 57606,
     "document-one-page-multiple-48-regular": 57607,
     "document-page-top-left-20-filled": 57608,
+    "document-powerpoint-20-regular": 58129,
     "document-print-28-regular": 57609,
     "document-question-mark-24-regular": 57610,
     "document-queue-20-regular": 57611,
@@ -367,6 +368,7 @@
     "hexagon-24-filled": 57706,
     "hexagon-sparkle-20-regular": 57707,
     "hexagon-sparkle-32-regular": 57708,
+    "home-checkmark-28-filled": 58130,
     "hourglass-half-16-regular": 57709,
     "image-add-20-regular": 57710,
     "image-add-32-filled": 57711,

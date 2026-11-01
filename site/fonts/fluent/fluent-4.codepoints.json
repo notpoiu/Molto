@@ -1,6 +1,6 @@
 {
-  "version": "a38746a849d6cae716aa37f122c80124a5367c730dde713beaa73eaab3e59636",
-  "nextCodepoint": 58189,
+  "version": "c46a50b50aff1e99a2ec8a7c850df285e85af57ebcc8d99fd513edee7e7f3376",
+  "nextCodepoint": 58191,
   "icons": {
     "accessibility-checkmark-20-filled": 57344,
     "accessibility-question-mark-20-filled": 57345,
@@ -226,6 +226,7 @@
     "communication-shield-24-regular": 57565,
     "compass-true-north-20-regular": 57566,
     "conference-room-16-filled": 57567,
+    "conference-room-sparkle-20-regular": 58189,
     "contact-card-generic-24-filled": 57568,
     "contact-card-ribbon-20-filled": 57569,
     "content-view-gallery-lightning-24-regular": 57570,
@@ -468,6 +469,7 @@
     "mail-list-16-regular": 57807,
     "mail-move-to-focussed-24-regular": 57808,
     "mail-open-person-16-regular": 57809,
+    "mail-open-person-28-regular": 58190,
     "mail-pause-20-filled": 57810,
     "mail-prohibited-16-filled": 57811,
     "mail-read-20-regular": 57812,

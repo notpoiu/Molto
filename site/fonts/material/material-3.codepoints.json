@@ -1,6 +1,6 @@
 {
-  "version": "79e57ab894664d75d4e256aca7afd04a46edfb258bb4faedf4dfe87a6e508ebe",
-  "nextCodepoint": 58305,
+  "version": "1d94627328b888a9d6c2b5f21ce6f174259300c975a3b7a2ce4ed4ea517c3a3f",
+  "nextCodepoint": 58307,
   "icons": {
     "accessibility-new": 57344,
     "accessible": 57345,
@@ -476,6 +476,7 @@
     "magnify-fullscreen": 57815,
     "mail-asterisk-outline": 57816,
     "mail-asterisk-rounded": 57817,
+    "mail-person-outline": 58305,
     "mail-spark": 57818,
     "manage-search": 57819,
     "map-outline-rounded": 57820,
@@ -610,6 +611,7 @@
     "person-add-disabled": 57949,
     "person-celebrate": 57950,
     "person-check": 57951,
+    "person-eye-rounded": 58306,
     "person-play-outline": 57952,
     "person-raised-hand-outline-rounded": 57953,
     "person-search-outline-rounded": 57954,

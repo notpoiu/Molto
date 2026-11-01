@@ -1,6 +1,6 @@
 {
-  "version": "de9c66a68c8475bf9b588d97473bbf86409d927b1ab5d61017df72b86e330200",
-  "nextCodepoint": 58143,
+  "version": "5560edee197b6ba646a9dd2a13e35580d22af3aa3cd2e19b5a6ac9c47fcac107",
+  "nextCodepoint": 58145,
   "icons": {
     "accessibility-error-24-regular": 57344,
     "add-circle-12-regular": 57345,
@@ -144,6 +144,7 @@
     "calendar-arrow-repeat-all-28-filled": 57483,
     "calendar-arrow-repeat-all-28-regular": 57484,
     "calendar-assistant-24-filled": 57485,
+    "calendar-cancel-32-filled": 58143,
     "calendar-checkmark-center-20-regular": 57486,
     "calendar-checkmark-center-32-regular": 57487,
     "calendar-checkmark-sparkle-48-regular": 57488,
@@ -340,6 +341,7 @@
     "flashlight-off-20-filled": 57679,
     "folder-arrow-right-16-regular": 57680,
     "folder-arrow-right-20-filled": 57681,
+    "folder-globe-24-filled": 58144,
     "folder-link-48-regular": 57682,
     "folder-list-20-filled": 57683,
     "folder-mail-32-filled": 57684,

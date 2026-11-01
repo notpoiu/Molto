@@ -1,6 +1,6 @@
 {
-  "version": "3d6b7b040bb3cd55ebc99543a0027f055d971a9a5eff5958846c6f78e68c65e0",
-  "nextCodepoint": 59798,
+  "version": "b0525f29bf0905a46d5ceff62854886202a807bea371b5b81fc3c7d1bc1c65d6",
+  "nextCodepoint": 59801,
   "icons": {
     "a-b-off": 58844,
     "ad-circle": 58845,
@@ -1064,6 +1064,7 @@
     "sketching": 58121,
     "skew-x": 58122,
     "skull": 58127,
+    "snail": 59798,
     "social-off": 58143,
     "sofa": 58145,
     "sofa-off": 58146,
@@ -1247,6 +1248,7 @@
     "world-check": 59778,
     "world-dollar": 59779,
     "world-download": 59780,
+    "world-map-off": 59799,
     "world-plus": 59781,
     "world-question": 59782,
     "world-star": 59783,
@@ -1263,6 +1265,7 @@
     "zoom-in-area": 59794,
     "zoom-in-area-filled": 59795,
     "zoom-out-area": 59796,
+    "zsh": 59800,
     "zzz": 59797
   }
 }

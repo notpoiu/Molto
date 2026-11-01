@@ -1,6 +1,6 @@
 {
-  "version": "316b0b0427cff8e591fe14541c18187ac4d76252db4e2fa5ce52397839437f3e",
-  "nextCodepoint": 58146,
+  "version": "7bf3d8016b8bc9bb9d6d08fc0f6bcd1993a3efefbe7fa095e41ecab0fc8fd329",
+  "nextCodepoint": 58148,
   "icons": {
     "accessibility-32-regular": 57344,
     "add-28-filled": 57345,
@@ -114,6 +114,7 @@
     "calendar-48-filled": 57453,
     "calendar-arrow-repeat-all-16-regular": 57454,
     "calendar-assistant-20-filled": 57455,
+    "calendar-cancel-32-light": 58146,
     "calendar-checkmark-sparkle-16-filled": 57456,
     "calendar-checkmark-sparkle-24-regular": 57457,
     "calendar-data-bar-24-regular": 57458,
@@ -200,6 +201,7 @@
     "code-text-edit-20-filled": 57539,
     "coin-stack-20-regular": 57540,
     "collections-24-filled": 57541,
+    "color-line-28-regular": 58147,
     "color-off-28-filled": 57542,
     "color-off-28-regular": 57543,
     "column-48-filled": 57544,

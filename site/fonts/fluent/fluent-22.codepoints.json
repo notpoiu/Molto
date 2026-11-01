@@ -1,6 +1,6 @@
 {
-  "version": "464eafa8b5710e64663b9f7341c362ffb37683bab32a1feaa06f48a796b1e4c2",
-  "nextCodepoint": 58152,
+  "version": "a503f8b0baa39a04592f1420ded559e8451445da9b41843c8dae29f61ce0f38b",
+  "nextCodepoint": 58154,
   "icons": {
     "accessibility-20-filled": 57344,
     "accessibility-checkmark-32-light": 57345,
@@ -107,6 +107,7 @@
     "box-16-filled": 57446,
     "box-arrow-up-20-filled": 57447,
     "box-checkmark-20-filled": 57448,
+    "box-question-mark-20-filled": 58152,
     "braces-32-filled": 57449,
     "braces-checkmark-16-filled": 57450,
     "brain-32-regular": 57451,
@@ -218,6 +219,7 @@
     "code-off-16-filled": 57557,
     "collections-add-20-filled": 57558,
     "collections-empty-24-regular": 57559,
+    "color-line-32-regular": 58153,
     "color-off-20-regular": 57560,
     "column-arrow-right-20-regular": 57561,
     "comment-48-regular": 57562,
@@ -662,7 +664,6 @@
     "star-prohibited-20-filled": 58001,
     "status-24-filled": 58002,
     "stream-24-filled": 58003,
-    "stream-input-20-filled": 58004,
     "stream-output-20-filled": 58005,
     "sub-grid-20-regular": 58006,
     "subtract-16-regular": 58007,

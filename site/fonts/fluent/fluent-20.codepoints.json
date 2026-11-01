@@ -1,6 +1,6 @@
 {
-  "version": "4e7be67cac0344a516417bc6dd645d793d2502238ca734ef3534a5d525d401e2",
-  "nextCodepoint": 58150,
+  "version": "2c9e433d2b34a3aec5207279cf415f8c027f2e00f7fb961a50608122c5e2ac31",
+  "nextCodepoint": 58152,
   "icons": {
     "accessibility-more-24-regular": 57344,
     "add-circle-16-filled": 57345,
@@ -358,6 +358,7 @@
     "folder-add-24-regular": 57697,
     "folder-briefcase-20-filled": 57698,
     "folder-dismiss-20-regular": 57699,
+    "folder-globe-24-regular": 58150,
     "folder-mail-24-filled": 57700,
     "folder-move-24-filled": 57701,
     "folder-open-down-24-filled": 57702,
@@ -456,6 +457,7 @@
     "mail-fish-hook-16-filled": 57795,
     "mail-inbox-checkmark-20-filled": 57796,
     "mail-inbox-dismiss-16-filled": 57797,
+    "mail-open-person-32-light": 58151,
     "mail-read-multiple-20-regular": 57798,
     "mail-warning-28-regular": 57799,
     "mail-warning-32-filled": 57800,

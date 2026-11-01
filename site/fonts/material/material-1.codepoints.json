@@ -1,6 +1,6 @@
 {
-  "version": "3481093769ce6ccd0c06af89de843b18effba7878d023061d2b26754a7446cc4",
-  "nextCodepoint": 58298,
+  "version": "80318f61d43428344b03c8cd5557a2c925207ad50097667be0c3f3bc91ab66e5",
+  "nextCodepoint": 58301,
   "icons": {
     "action-key-rounded": 57344,
     "acute-outline-rounded": 57345,
@@ -260,6 +260,8 @@
     "dns": 57599,
     "do-not-disturb-on-total-silence-outline": 57600,
     "document-scanner-outline-rounded": 57601,
+    "document-share-stack-outline": 58298,
+    "document-share-stack-rounded": 58299,
     "domain": 57602,
     "domain-add-rounded": 57603,
     "domain-disabled-check-rounded": 57604,
@@ -780,6 +782,7 @@
     "speed-1-5x": 58119,
     "speed-1-75-outline-sharp": 58120,
     "speed-4-outline-rounded": 58121,
+    "speed-4-progress-outline": 58300,
     "split-scene-left": 58122,
     "splitscreen-landscape-outline-sharp": 58123,
     "splitscreen-top-sharp": 58124,

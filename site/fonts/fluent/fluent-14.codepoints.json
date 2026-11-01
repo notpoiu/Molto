@@ -1,6 +1,6 @@
 {
-  "version": "d65e0e28fa56f08d75fdf161cfa2a7bb2274d280fc70317ce6572cbb175d3a3b",
-  "nextCodepoint": 58126,
+  "version": "39f95568fb8020d11bddd273ac3d006b2e7ec9e159b83ee5774772110939d85a",
+  "nextCodepoint": 58128,
   "icons": {
     "accessibility-24-filled": 57344,
     "accessibility-more-16-filled": 57345,
@@ -219,6 +219,7 @@
     "comment-text-32-regular": 57558,
     "communication-person-20-regular": 57559,
     "compose-12-filled": 57560,
+    "conference-room-sparkle-16-filled": 58126,
     "connected-20-filled": 57561,
     "connector-20-filled": 57562,
     "contact-card-20-regular": 57563,
@@ -300,6 +301,7 @@
     "document-page-bottom-center-24-regular": 57639,
     "document-page-top-right-20-filled": 57640,
     "document-pdf-16-filled": 57641,
+    "document-powerpoint-20-filled": 58127,
     "document-ribbon-48-filled": 57642,
     "document-split-hint-off-20-filled": 57643,
     "document-sync-32-filled": 57644,

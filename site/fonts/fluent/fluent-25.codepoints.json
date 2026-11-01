@@ -1,6 +1,6 @@
 {
-  "version": "d73c510b49b0b6b3fd38e5421ab4396b8d738554c3d647d0701faa00465ab9f6",
-  "nextCodepoint": 58119,
+  "version": "eb93524ab27a7cfd0aed1e4a2386ca6253f8c454d41a5ff26d21b7705d7b1076",
+  "nextCodepoint": 58120,
   "icons": {
     "accessibility-48-filled": 57344,
     "add-subtract-circle-16-regular": 57345,
@@ -431,6 +431,7 @@
     "mail-inbox-arrow-up-24-filled": 57770,
     "mail-inbox-person-20-regular": 57771,
     "mail-list-28-regular": 57772,
+    "mail-open-person-32-filled": 58119,
     "mail-prohibited-20-regular": 57773,
     "mail-read-32-filled": 57774,
     "mail-rewind-32-light": 57775,

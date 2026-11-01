@@ -1,6 +1,6 @@
 {
-  "version": "8b32a70dfc8a5ecdfa9c893417212a4553fcb08b9e5c498412bcc0951d6ca841",
-  "nextCodepoint": 58185,
+  "version": "3542fbd7802a765447251806b86b64c37945240584bd72f5ba4ea5caa3e47dca",
+  "nextCodepoint": 58186,
   "icons": {
     "accessibility-28-filled": 57344,
     "accessibility-error-20-regular": 57345,
@@ -400,6 +400,7 @@
     "highlight-link-20-regular": 57739,
     "home-20-regular": 57740,
     "home-checkmark-20-regular": 57741,
+    "home-checkmark-32-filled": 58185,
     "home-database-32-filled": 57742,
     "home-split-20-regular": 57743,
     "home-split-32-filled": 57744,

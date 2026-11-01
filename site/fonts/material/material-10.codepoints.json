@@ -1,6 +1,6 @@
 {
-  "version": "e9e117554580058ebf1ddc5ee306658a87e0801e3b2c357c5c54ecaab743addb",
-  "nextCodepoint": 58294,
+  "version": "91458bc91310506afe5322026e4d8ac343cdbbfac16251b43c0875b7b95eff10",
+  "nextCodepoint": 58297,
   "icons": {
     "ad-group-off-outline-sharp": 57344,
     "adaptive-audio-mic-rounded": 57345,
@@ -228,6 +228,7 @@
     "document-search-outline-sharp": 57567,
     "document-search-rounded": 57568,
     "document-share-outline": 57569,
+    "document-share-stack-outline-rounded": 58294,
     "domain-rounded": 57570,
     "domain-verification-off-rounded": 57571,
     "door-sliding-rounded": 57572,
@@ -423,6 +424,7 @@
     "ink-eraser-outline-rounded": 57762,
     "ink-pen": 57763,
     "ink-selection-sharp": 57764,
+    "input-search-outline-rounded": 58295,
     "install-mobile-rounded": 57765,
     "install-mobile-sharp": 57766,
     "instant-mix-rounded": 57767,
@@ -588,6 +590,7 @@
     "perm-device-information-outline-rounded": 57927,
     "perm-media-outline-sharp": 57928,
     "person-edit-outline-rounded": 57929,
+    "person-eye-outline": 58296,
     "personal-bag-off-outline-sharp": 57930,
     "phone-callback": 57931,
     "phone-forwarded-outline": 57932,

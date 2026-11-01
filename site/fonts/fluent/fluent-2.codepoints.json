@@ -1,6 +1,6 @@
 {
-  "version": "7a3cbdab731723826e6f744190855127f5f6568f6f26c96e88952b58488f7c7b",
-  "nextCodepoint": 58170,
+  "version": "e0bff015b1787b347d03dffa2c5168b7f50430cc3bf8769b66b90a40e28d8385",
+  "nextCodepoint": 58173,
   "icons": {
     "accessibility-20-regular": 57344,
     "add-24-filled": 57345,
@@ -203,6 +203,8 @@
     "color-background-24-filled": 57542,
     "color-fill-32-regular": 57543,
     "color-line-16-regular": 57544,
+    "color-line-28-filled": 58170,
+    "color-line-accent-32-regular": 58171,
     "comment-add-28-regular": 57545,
     "comment-badge-24-filled": 57546,
     "comment-checkmark-28-filled": 57547,
@@ -403,6 +405,7 @@
     "history-dismiss-28-regular": 57742,
     "home-20-filled": 57743,
     "home-32-regular": 57744,
+    "home-checkmark-32-regular": 58172,
     "home-empty-20-filled": 57745,
     "home-heart-24-regular": 57746,
     "home-person-24-regular": 57747,

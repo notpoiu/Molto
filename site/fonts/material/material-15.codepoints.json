@@ -1,6 +1,6 @@
 {
-  "version": "b2cb4a8fed2188185e74d71c2ea1e5b907aa1c342568dbb762b8573746b0c183",
-  "nextCodepoint": 58299,
+  "version": "81767215fc7075589985fedded3cdcad05d8dc86a6a789bede24e11540496aa8",
+  "nextCodepoint": 58300,
   "icons": {
     "accessible-rounded": 57344,
     "account-tree-outline-rounded": 57345,
@@ -255,6 +255,7 @@
     "dock-to-left-outline": 57594,
     "dock-to-right-outline": 57595,
     "document-scanner-outline": 57596,
+    "document-share-stack-outline-sharp": 58299,
     "domain-verification-off-sharp": 57597,
     "donut-small-outline": 57598,
     "door-front-outline": 57599,

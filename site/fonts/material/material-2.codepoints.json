@@ -1,6 +1,6 @@
 {
-  "version": "6e05168932755b5a809349d6c723676e53ff3fbcfc7923142b26284152af2315",
-  "nextCodepoint": 58248,
+  "version": "55bfd62a3fd38993ecddfb05e6a8b989c886fb2deff4aa2668d961dbf685795a",
+  "nextCodepoint": 58249,
   "icons": {
     "account-circle-off-outline": 57344,
     "ad-group-off-outline": 57345,
@@ -239,6 +239,7 @@
     "dock": 57578,
     "dock-to-left-outline-sharp": 57579,
     "document-search-sharp": 57580,
+    "document-share-stack-sharp": 58248,
     "door-back-outline-sharp": 57581,
     "downloading-rounded": 57582,
     "drafts-rounded": 57583,

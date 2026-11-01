@@ -1,6 +1,6 @@
 {
-  "version": "f0f2388a8a7f882d691975cb7d7494e648aa472a7567c012b297fc139b474481",
-  "nextCodepoint": 58143,
+  "version": "3c4ba6fe93724ba73f1ee8cb3bd558f9c21ab5cf8e05ad0adb820f95dcc0dfc9",
+  "nextCodepoint": 58144,
   "icons": {
     "accessibility-checkmark-20-regular": 57344,
     "accessibility-checkmark-28-filled": 57345,
@@ -219,6 +219,7 @@
     "comment-text-16-filled": 57558,
     "communication-shield-16-regular": 57559,
     "compass-true-north-24-regular": 57560,
+    "conference-room-sparkle-24-regular": 58143,
     "content-view-gallery-20-regular": 57561,
     "content-view-gallery-lightning-16-regular": 57562,
     "content-view-gallery-lightning-28-regular": 57563,

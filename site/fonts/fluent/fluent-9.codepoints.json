@@ -1,6 +1,6 @@
 {
-  "version": "697ca38ab4498b8f4c8507496b2ab6fb83118da899cab61b967202319065f2be",
-  "nextCodepoint": 58098,
+  "version": "5e7e5cb7825f796b461716d4b7c6655995ef0d9e6833932f4db3b811ab092e20",
+  "nextCodepoint": 58100,
   "icons": {
     "add-32-regular": 57344,
     "add-circle-48-filled": 57345,
@@ -108,6 +108,7 @@
     "calendar-agenda-16-filled": 57447,
     "calendar-arrow-counterclockwise-20-filled": 57448,
     "calendar-arrow-down-20-regular": 57449,
+    "calendar-cancel-32-regular": 58098,
     "calendar-chat-24-filled": 57450,
     "calendar-checkmark-center-20-filled": 57451,
     "calendar-empty-20-regular": 57452,
@@ -153,7 +154,6 @@
     "channel-share-48-filled": 57492,
     "chat-add-16-filled": 57493,
     "chat-arrow-back-down-20-filled": 57494,
-    "chat-arrow-double-back-20-regular": 57495,
     "chat-bubbles-question-20-regular": 57496,
     "chat-checkmark-32-filled": 57497,
     "chat-dismiss-16-filled": 57498,
@@ -199,6 +199,7 @@
     "code-block-28-filled": 57538,
     "code-cs-16-filled": 57539,
     "coin-multiple-32-filled": 57540,
+    "color-line-32-filled": 58099,
     "column-single-16-regular": 57541,
     "comma-20-filled": 57542,
     "comma-20-regular": 57543,

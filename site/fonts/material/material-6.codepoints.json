@@ -1,6 +1,6 @@
 {
-  "version": "a9ac4755d0ceacad24240629048408ef478710f3c69d28d8ff77bdc033195b13",
-  "nextCodepoint": 58306,
+  "version": "d4f46c20dfe9cc509dee9ea4593826f39eb43d51f7f452d4356499fe4f6218e5",
+  "nextCodepoint": 58307,
   "icons": {
     "account-balance-wallet-sharp": 57344,
     "account-circle": 57345,
@@ -469,6 +469,7 @@
     "luggage-outline-rounded": 57808,
     "mail-asterisk": 57809,
     "mail-off-sharp": 57810,
+    "mail-person-outline-rounded": 58306,
     "male": 57811,
     "man-4": 57812,
     "man-4-sharp": 57813,

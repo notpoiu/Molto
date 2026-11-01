@@ -1,6 +1,6 @@
 {
-  "version": "161428e65a58e51b89aa9a081a629c7ced67ab174aab46c411b9f5793382c924",
-  "nextCodepoint": 58207,
+  "version": "424bcd0a4a4991da3294b6764d537a365088772050f993305850ace26f07e406",
+  "nextCodepoint": 58208,
   "icons": {
     "accessibility-32-filled": 57344,
     "accessibility-checkmark-32-regular": 57345,
@@ -225,6 +225,7 @@
     "comment-multiple-checkmark-16-regular": 57564,
     "comment-multiple-checkmark-28-regular": 57565,
     "compose-20-filled": 57566,
+    "conference-room-sparkle-24-filled": 58207,
     "contact-card-ribbon-28-filled": 57567,
     "content-settings-24-regular": 57568,
     "content-view-gallery-lightning-24-filled": 57569,

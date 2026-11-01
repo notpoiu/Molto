@@ -1,6 +1,6 @@
 {
-  "version": "795a31c91f124039cf0db781c240bc860031ee1ac058c8fe871b154af80e332c",
-  "nextCodepoint": 58834,
+  "version": "13ec0db5a4c51538517ea1094ea3c304a9f579e6f73212e32ef12c604581dcbf",
+  "nextCodepoint": 58838,
   "icons": {
     "acrobatic": 57630,
     "ad": 57631,
@@ -114,6 +114,7 @@
     "battery-vertical-4": 57739,
     "battery-vertical-charging": 57740,
     "battery-vertical-eco": 57741,
+    "beach-bag": 58834,
     "bed-filled": 57742,
     "beer-filled": 57743,
     "bell-code": 57744,
@@ -640,8 +641,11 @@
     "gift": 58265,
     "gift-card-filled": 58266,
     "git-branch": 58267,
+    "git-pull-request-closed-ai": 58835,
     "git-pull-request-conflict": 58268,
+    "git-pull-request-draft-ai": 58836,
     "git-pull-request-locked": 58269,
+    "git-pull-request-locked-ai": 58837,
     "glass": 58270,
     "globe-filled": 58271,
     "globe-off": 58272,

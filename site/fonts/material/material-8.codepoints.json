@@ -1,6 +1,6 @@
 {
-  "version": "b4947965e10463b8e0f7c5542ae5cd204d7bf10c1cd89be347a65a1930afb7c8",
-  "nextCodepoint": 58298,
+  "version": "e70ecfb9fe6a27c6f56051c54bff829c6b7eb2ba27f120357a46c019b8b641d1",
+  "nextCodepoint": 58300,
   "icons": {
     "account-box-sharp": 57344,
     "action-key-outline": 57345,
@@ -178,6 +178,7 @@
     "contact-mail": 57517,
     "content-copy-outline-sharp": 57518,
     "contextual-token-add": 57519,
+    "contrast-inverse-auto": 58298,
     "contrast-rtl-off-rounded": 57520,
     "convert-to-text": 57521,
     "convert-to-text-outline-rounded": 57522,
@@ -420,6 +421,7 @@
     "indeterminate-question-box-rounded": 57759,
     "ink-highlighter-sharp": 57760,
     "ink-marker": 57761,
+    "input-search": 58299,
     "insert-page-break-sharp": 57762,
     "inventory-2-outline-rounded": 57763,
     "inventory-2-outline-sharp": 57764,

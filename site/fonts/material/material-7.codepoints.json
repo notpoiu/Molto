@@ -1,6 +1,6 @@
 {
-  "version": "204064362e2da6b4a3a488707da7085a943169a48b043983e375adda47d27c03",
-  "nextCodepoint": 58352,
+  "version": "5c9ac375845b12ca20ada405fe1780fd394e6aab912b282784835ffebb877a9f",
+  "nextCodepoint": 58354,
   "icons": {
     "abc-rounded": 57344,
     "ac-unit-rounded": 57345,
@@ -189,6 +189,7 @@
     "contact-phone-outline": 57528,
     "contactless-rounded": 57529,
     "content-paste-go-sharp": 57530,
+    "contrast-inverse-auto-rounded": 58352,
     "contrast-square-rounded": 57531,
     "conveyor-belt-sharp": 57532,
     "cookie-off-outline": 57533,
@@ -461,6 +462,7 @@
     "info-i-rounded": 57800,
     "ink-highlighter-off-outline-sharp": 57801,
     "ink-highlighter-rounded": 57802,
+    "input-search-sharp": 58353,
     "invert-colors-off": 57803,
     "invert-colors-outline": 57804,
     "invert-colors-rounded": 57805,

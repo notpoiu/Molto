@@ -1,6 +1,6 @@
 {
-  "version": "5f64a5b431ff38bf8b0c2a243f8c819caf01aa217fbfb5a690f57183aa45890d",
-  "nextCodepoint": 58336,
+  "version": "faf972e33390e279df2cd10fe46c4cdcf7847b3ead8412764c5259ebb2ce8558",
+  "nextCodepoint": 58338,
   "icons": {
     "account-balance": 57344,
     "account-balance-outline": 57345,
@@ -440,6 +440,7 @@
     "ink-eraser-outline-sharp": 57779,
     "ink-highlighter-outline": 57780,
     "inpatient": 57781,
+    "input-search-outline-sharp": 58336,
     "insert-page-break": 57782,
     "inventory": 57783,
     "iron-outline": 57784,
@@ -784,6 +785,7 @@
     "speed-1-25-sharp": 58123,
     "speed-1-5-sharp": 58124,
     "speed-1-5x-sharp": 58125,
+    "speed-4-progress-outline-rounded": 58337,
     "speed-outline-rounded": 58126,
     "split-scene-sharp": 58127,
     "splitscreen-landscape-add": 58128,

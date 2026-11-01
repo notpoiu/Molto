@@ -1,6 +1,6 @@
 {
-  "version": "6da5d85e9c82eadeb7f73f2e897ae4fb590a1dbe99b3a16f49e8b0c127e4ef7a",
-  "nextCodepoint": 58141,
+  "version": "0f695f19b88f09e8a059a9a55f4a6a5012a6d7528e39746f2c696e54fd8601a2",
+  "nextCodepoint": 58143,
   "icons": {
     "accessibility-48-regular": 57344,
     "accessibility-error-20-filled": 57345,
@@ -212,6 +212,7 @@
     "color-fill-16-regular": 57551,
     "color-fill-24-filled": 57552,
     "color-line-accent-16-regular": 57553,
+    "color-line-accent-28-regular": 58141,
     "column-32-regular": 57554,
     "column-single-16-filled": 57555,
     "comment-arrow-left-28-filled": 57556,
@@ -382,6 +383,7 @@
     "home-16-regular": 57721,
     "home-checkmark-16-regular": 57722,
     "home-checkmark-24-filled": 57723,
+    "home-checkmark-28-regular": 58142,
     "home-database-24-filled": 57724,
     "home-garage-24-regular": 57725,
     "home-split-24-filled": 57726,

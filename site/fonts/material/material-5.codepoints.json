@@ -1,6 +1,6 @@
 {
-  "version": "2439b4f8762389dfcf27598fb57bf526f3dd2de88173e3ceb846bd66a16da6db",
-  "nextCodepoint": 58321,
+  "version": "3b30b7d2d6179e1fba660d1f769429ab0162380da22023dbfbe31f3043ccb94d",
+  "nextCodepoint": 58324,
   "icons": {
     "account-circle-off-outline-rounded": 57344,
     "account-tree-rounded": 57345,
@@ -207,6 +207,7 @@
     "contextual-token-add-rounded": 57546,
     "contract-edit-outline-sharp": 57547,
     "contract-outline": 57548,
+    "contrast-inverse": 58321,
     "contrast-square": 57549,
     "convert-to-text-outline": 57550,
     "convert-to-text-sharp": 57551,
@@ -650,6 +651,7 @@
     "pergola-rounded": 57989,
     "person-add-disabled-outline-rounded": 57990,
     "person-book-sharp": 57991,
+    "person-eye": 58322,
     "person-heart": 57992,
     "personalized-recommendations": 57993,
     "pest-control-rodent-outline-sharp": 57994,
@@ -801,6 +803,7 @@
     "speed-0-2x": 58140,
     "speed-2-sharp": 58141,
     "speed-4": 58142,
+    "speed-4-progress-outline-sharp": 58323,
     "speed-camera-outline-rounded": 58143,
     "split-scene-right-outline-sharp": 58144,
     "splitscreen-landscape-add-outline": 58145,

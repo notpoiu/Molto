@@ -1,6 +1,6 @@
 {
-  "version": "61872f9720a0fa0914c639f49f63f587f44863b4ebd914f4832e5a751d182876",
-  "nextCodepoint": 58343,
+  "version": "9031691e3b81eb3f82c851726176bfc47daf130a24ea0e1c0fb6c187324ec2f9",
+  "nextCodepoint": 58346,
   "icons": {
     "accessible-menu-sharp": 57344,
     "add-ad-outline-rounded": 57345,
@@ -214,6 +214,7 @@
     "contactless-off-rounded": 57553,
     "contacts": 57554,
     "contacts-outline-sharp": 57555,
+    "contrast-auto": 58343,
     "control-point-duplicate-outline": 57556,
     "conversation-sharp": 57557,
     "conversion-path": 57558,
@@ -512,6 +513,7 @@
     "magnification-small-outline-rounded": 57851,
     "magnification-small-sharp": 57852,
     "magnify-docked-outline-rounded": 57853,
+    "mail-person": 58344,
     "mail-shield-outline-sharp": 57854,
     "manga": 57855,
     "map": 57856,
@@ -807,6 +809,7 @@
     "speed-0-5": 58146,
     "speed-0-5x-rounded": 58147,
     "speed-1-2x": 58148,
+    "speed-4-progress": 58345,
     "spellcheck-rounded": 58149,
     "split-scene-left-outline": 58150,
     "split-scene-left-rounded": 58151,

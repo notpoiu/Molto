@@ -1,6 +1,6 @@
 {
-  "version": "066aa4af2aa45b4196c3b26c16b93aa407578e09ffdb112f694904aa3d549167",
-  "nextCodepoint": 58325,
+  "version": "879c8a14177878211dae4f1d86e622bba9fc6a7c33dba00f4c645237627f19cb",
+  "nextCodepoint": 58327,
   "icons": {
     "accessible-forward-rounded": 57344,
     "account-balance-wallet": 57345,
@@ -189,6 +189,7 @@
     "contact-support-outline": 57528,
     "contact-support-rounded": 57529,
     "contextual-token-outline": 57530,
+    "contrast-auto-rounded": 58325,
     "contrast-rtl-off": 57531,
     "conversation": 57532,
     "conversation-outline-sharp": 57533,
@@ -489,6 +490,7 @@
     "mail-lock-outline": 57828,
     "mail-lock-outline-sharp": 57829,
     "mail-lock-rounded": 57830,
+    "mail-person-rounded": 58326,
     "man-3-rounded": 57831,
     "map-pin-review-outline-sharp": 57832,
     "mark-as-unread": 57833,

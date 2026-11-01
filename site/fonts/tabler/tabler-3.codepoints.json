@@ -1,6 +1,6 @@
 {
-  "version": "9346721cdeca2437f26a412630d29fc5826dfabdfab2ca833e82c7d85b3e8a84",
-  "nextCodepoint": 59778,
+  "version": "ef857809dc5561a06dc61a526802a01dda01f0a5a67889c89debbe35a52ae490",
+  "nextCodepoint": 59780,
   "icons": {
     "a-b": 58844,
     "abacus-off": 58845,
@@ -768,6 +768,7 @@
     "math-x-divide-y": 58351,
     "math-x-plus-x": 58356,
     "maximize": 58362,
+    "mcp": 59778,
     "medal": 58366,
     "medical-cross-off": 58371,
     "menu-4": 58383,
@@ -1181,6 +1182,7 @@
     "wash-dry-off": 59740,
     "wash-dryclean-off": 59741,
     "wash-temperature-3": 59742,
+    "waveform": 59779,
     "waves-electricity": 59743,
     "webhook-off": 59744,
     "wheel": 59745,

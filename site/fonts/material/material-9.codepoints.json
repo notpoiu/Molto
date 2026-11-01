@@ -1,6 +1,6 @@
 {
-  "version": "05fb10612e19dbc3795d6b150e3fd752b5b2ed4ec7e6e8397260e805fff9360f",
-  "nextCodepoint": 58308,
+  "version": "826514bd6466377bbacb2d1e2ed27fcc75894a6ad7778b1af3d876593affd2ee",
+  "nextCodepoint": 58310,
   "icons": {
     "accessibility-rounded": 57344,
     "accessible-menu": 57345,
@@ -517,6 +517,7 @@
     "magnification-large-sharp": 57856,
     "mail-off-outline-rounded": 57857,
     "mail-outline-sharp": 57858,
+    "mail-person-sharp": 58308,
     "man-4-rounded": 57859,
     "manage-accounts-outline": 57860,
     "manage-accounts-rounded": 57861,
@@ -644,6 +645,7 @@
     "person-add": 57983,
     "person-check-outline-rounded": 57984,
     "person-edit-outline-sharp": 57985,
+    "person-eye-outline-rounded": 58309,
     "person-outline": 57986,
     "person-remove": 57987,
     "person-rounded": 57988,

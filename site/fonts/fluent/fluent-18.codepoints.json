@@ -1,6 +1,6 @@
 {
-  "version": "81d5874192914c5f236c8fdc0729dfb2eb7492734eb8d93d3a80f680c482570c",
-  "nextCodepoint": 58160,
+  "version": "65ac45e763c98a17ecdec9570eb51b9929fb99fa37865ed2b0dc211cf746103b",
+  "nextCodepoint": 58162,
   "icons": {
     "accessibility-checkmark-28-regular": 57344,
     "add-48-regular": 57345,
@@ -368,6 +368,7 @@
     "hexagon-three-12-regular": 57707,
     "highlight-16-regular": 57708,
     "history-20-regular": 57709,
+    "home-checkmark-48-filled": 58160,
     "home-more-24-filled": 57710,
     "home-split-48-filled": 57711,
     "hourglass-20-regular": 57712,
@@ -438,6 +439,7 @@
     "mail-list-24-filled": 57777,
     "mail-multiple-20-filled": 57778,
     "mail-off-16-regular": 57779,
+    "mail-open-person-28-filled": 58161,
     "mail-outbox-24-filled": 57780,
     "mail-read-28-filled": 57781,
     "mail-read-multiple-32-filled": 57782,

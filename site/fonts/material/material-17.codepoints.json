@@ -1,6 +1,6 @@
 {
-  "version": "0b816bfc1ce02d317b52d38483efbc2f99dfc5b7a09317aaa1583c2bf1f53c32",
-  "nextCodepoint": 58332,
+  "version": "f386b19ff1d003cac542505c5157638bba93a38bd8cc3a217b5dead8a483d9f1",
+  "nextCodepoint": 58333,
   "icons": {
     "abc-sharp": 57344,
     "account-box-outline": 57345,
@@ -806,6 +806,7 @@
     "speech-to-text-rounded": 58145,
     "speed-1-25": 58146,
     "speed-4-outline": 58147,
+    "speed-4-progress-sharp": 58332,
     "speed-camera": 58148,
     "split-scene-2": 58149,
     "split-scene-2-outline": 58150,

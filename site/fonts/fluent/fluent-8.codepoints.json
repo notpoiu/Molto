@@ -1,6 +1,6 @@
 {
-  "version": "21bff615fe968cf57a3ce35d33804cdce04d7b722a52f1e5e9d7510e4ce4cfe8",
-  "nextCodepoint": 58154,
+  "version": "07df3baede37bba90ccfd5f081e3f5f476ede81d194859f8cd9a29289a2fe92c",
+  "nextCodepoint": 58155,
   "icons": {
     "accessibility-question-mark-20-regular": 57344,
     "add-square-multiple-16-filled": 57345,
@@ -351,6 +351,7 @@
     "folder-dismiss-20-filled": 57690,
     "folder-dismiss-24-regular": 57691,
     "folder-globe-16-regular": 57692,
+    "folder-globe-28-regular": 58154,
     "folder-link-20-filled": 57693,
     "folder-multiple-16-filled": 57694,
     "folder-person-28-filled": 57695,

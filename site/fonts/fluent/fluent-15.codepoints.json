@@ -1,6 +1,6 @@
 {
-  "version": "252f01b3e264d431a0ba7fc42081ab44b04f25eb8efb3c02f1c57f9494b37ae0",
-  "nextCodepoint": 58165,
+  "version": "ecd5150c196ca35d58bd9b6f113d98b0637b2b0019cfb03b21ceda8415f03fa9",
+  "nextCodepoint": 58167,
   "icons": {
     "add-circle-28-filled": 57344,
     "add-circle-48-regular": 57345,
@@ -156,7 +156,6 @@
     "certificate-20-regular": 57495,
     "channel-alert-48-filled": 57496,
     "chat-32-regular": 57497,
-    "chat-arrow-double-back-20-filled": 57498,
     "chat-checkmark-12-filled": 57499,
     "chat-checkmark-12-regular": 57500,
     "chat-checkmark-24-regular": 57501,
@@ -211,6 +210,7 @@
     "clover-48-regular": 57550,
     "color-fill-20-filled": 57551,
     "color-fill-24-regular": 57552,
+    "color-line-32-light": 58165,
     "comment-checkmark-12-filled": 57553,
     "comment-multiple-20-filled": 57554,
     "comment-multiple-24-regular": 57555,
@@ -405,6 +405,7 @@
     "history-28-regular": 57744,
     "home-28-filled": 57745,
     "home-checkmark-20-filled": 57746,
+    "home-checkmark-48-regular": 58166,
     "home-database-20-filled": 57747,
     "home-empty-28-filled": 57748,
     "home-money-24-filled": 57749,

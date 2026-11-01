@@ -1,6 +1,6 @@
 {
-  "version": "8bdd02446bf4cffebc6f73a2df9b882a6292a3ead68bd083854ab6417ed4b843",
-  "nextCodepoint": 58284,
+  "version": "1200071e2b9df1a6308f32065b93c0d7d64901df4588510b64479867be8bb8ff",
+  "nextCodepoint": 58288,
   "icons": {
     "accessibility": 57344,
     "account-child-invert": 57345,
@@ -254,6 +254,7 @@
     "do-not-touch-outline": 57593,
     "dock-to-right-sharp": 57594,
     "docs-apps-script-outline": 57595,
+    "document-share-stack": 58284,
     "domain-verification-sharp": 57596,
     "draw-abstract-outline": 57597,
     "drive-file-rename-outline-sharp": 57598,
@@ -418,6 +419,8 @@
     "indeterminate-check-box-outline-sharp": 57757,
     "ink-pen-outline-sharp": 57758,
     "input-rounded": 57759,
+    "input-search-outline": 58285,
+    "input-search-rounded": 58286,
     "interests": 57760,
     "interpreter-mode-outline": 57761,
     "ios-rounded": 57762,
@@ -779,6 +782,7 @@
     "spatial-tracking-outline-rounded": 58118,
     "speaker-3-outline-rounded": 58119,
     "speed-0-75-sharp": 58120,
+    "speed-4-progress-rounded": 58287,
     "speed-camera-outline": 58121,
     "spellcheck": 58122,
     "splitscreen-add-outline-rounded": 58123,

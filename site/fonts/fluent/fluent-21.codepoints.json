@@ -1,6 +1,6 @@
 {
-  "version": "041a417d1ff49f04919fb41f6dce42a5fb064bf76254be00e7aa41517ae9f4bb",
-  "nextCodepoint": 58172,
+  "version": "4c4e665b9e00289bf7a766ea380d14586b9e03e721f501337a91c5354f386d0f",
+  "nextCodepoint": 58173,
   "icons": {
     "accessibility-checkmark-24-filled": 57344,
     "accessibility-more-20-filled": 57345,
@@ -203,6 +203,7 @@
     "communication-24-regular": 57542,
     "communication-shield-24-filled": 57543,
     "cone-16-filled": 57544,
+    "conference-room-sparkle-20-filled": 58172,
     "connected-48-filled": 57545,
     "contact-card-generic-28-filled": 57546,
     "contact-card-ribbon-24-filled": 57547,

@@ -1,6 +1,6 @@
 {
-  "version": "55fb6d0ec52c5102511e792a78644370fec49ae31989274b53748be56487e642",
-  "nextCodepoint": 58283,
+  "version": "27340a7ba67b27e6a76bac0ff71a436834113d4155437d9815a30ed46874d3fa",
+  "nextCodepoint": 58284,
   "icons": {
     "accessibility-new-rounded": 57344,
     "account-circle-off": 57345,
@@ -509,6 +509,7 @@
     "macro-off-outline-rounded": 57848,
     "magnify-docked-outline": 57849,
     "magnify-fullscreen-sharp": 57850,
+    "mail-person-outline-sharp": 58283,
     "mail-shield-outline": 57851,
     "map-pin-heart-outline-sharp": 57852,
     "map-pin-heart-sharp": 57853,
